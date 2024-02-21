@@ -23,10 +23,11 @@ const page = () => {
     <div className="my-app">
       <Header />
       <main>
-        <HomeBanner />
-        <TextSlider />
+        {/* <HomeBanner /> */}
+        
         <Craft />
-        <TextSliderLarge />
+        {/* <TextSliderLarge /> */}
+        <TextSlider />
         <Tools />
         <Generation />
         <Partner />

@@ -10,18 +10,22 @@ const Craft = () => {
         <div className="row align-items-center gaper">
           <div className="col-12 col-lg-6 col-xxl-5">
             <div className="section__content">
-              <span className="sub-title">AI Image</span>
+              <span className="sub-title">About me</span>
               <h2 className="title title-animation">
-                Crafting Tomorrow&apos;s Images with Artificial Intelligence
+                Hi, This is Steven Lee{" "}
+                <span>Full stack Blockchain Developer</span>
               </h2>
               <p>
-                AI image generation tools have emerged as powerful resources in
-                the realm of digital art and design. These cutting-edge tools
-                leverage advanced.
+                Experienced software engineer with over 5 years in blockchain
+                development, cofounding a successful DEX, ConanSwap, boasting
+                20,000 active supporters. Proficient in JavaScript, Golang, and
+                Python, with expertise in smart contracts, consensus algorithms,
+                and data structures. Seeking a Blockchain Developer role to
+                contribute to shaping the future of the financial system.
               </p>
               <div className="section__content-cta">
-                <Link href="shop" className="btn btn--primary">
-                  Get started
+                <Link href="#work" className="btn btn--primary">
+                  Projects
                 </Link>
               </div>
             </div>

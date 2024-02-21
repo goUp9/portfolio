@@ -26,18 +26,74 @@ const TextSlider = () => {
         <SwiperSlide>
           <div className="text-slider__single">
             <h2 className="light-title">
-              <Link href="services">AI</Link>
+              <Link href="services">DeFi</Link>
             </h2>
-            <Image src={Star} alt="Image" priority />
+            <Image src={Star} alt="DeFi" priority />
             <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
+              <Link href="services" className="text-stroke" data-text="DApp">
+                DApp
               </Link>
             </h2>
             <Image src={Star} alt="Image" priority />
           </div>
         </SwiperSlide>
         <SwiperSlide>
+          <div className="text-slider__single">
+            <h2 className="light-title">
+              <Link href="services">NFT</Link>
+            </h2>
+            <Image src={Star} alt="NFT" priority />
+            <h2 className="light-title">
+              <Link href="services" className="text-stroke" data-text="DEX">
+                DEX
+              </Link>
+            </h2>
+            <Image src={Star} alt="Image" priority />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="text-slider__single">
+            <h2 className="light-title">
+              <Link href="services">Ordinal</Link>
+            </h2>
+            <Image src={Star} alt="Ordinal" priority />
+            <h2 className="light-title">
+              <Link href="services" className="text-stroke" data-text="Cross-Chain">
+              Cross-Chain
+              </Link>
+            </h2>
+            <Image src={Star} alt="Image" priority />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="text-slider__single">
+            <h2 className="light-title">
+              <Link href="services">P2E</Link>
+            </h2>
+            <Image src={Star} alt="Image" priority />
+            <h2 className="light-title">
+              <Link href="services" className="text-stroke" data-text="Alaytics">
+                Alaytics
+              </Link>
+            </h2>
+            <Image src={Star} alt="Image" priority />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="text-slider__single">
+            <h2 className="light-title">
+              <Link href="services">Bridge</Link>
+            </h2>
+            <Image src={Star} alt="Image" priority />
+            <h2 className="light-title">
+              <Link href="services" className="text-stroke" data-text="Layor0">
+              Layor0
+              </Link>
+            </h2>
+            <Image src={Star} alt="Image" priority />
+          </div>
+        </SwiperSlide>
+        {/* <SwiperSlide>
           <div className="text-slider__single">
             <h2 className="light-title">
               <Link href="services">AI</Link>
@@ -64,63 +120,7 @@ const TextSlider = () => {
             </h2>
             <Image src={Star} alt="Image" priority />
           </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="text-slider__single">
-            <h2 className="light-title">
-              <Link href="services">AI</Link>
-            </h2>
-            <Image src={Star} alt="Image" priority />
-            <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
-              </Link>
-            </h2>
-            <Image src={Star} alt="Image" priority />
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="text-slider__single">
-            <h2 className="light-title">
-              <Link href="services">AI</Link>
-            </h2>
-            <Image src={Star} alt="Image" priority />
-            <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
-              </Link>
-            </h2>
-            <Image src={Star} alt="Image" priority />
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="text-slider__single">
-            <h2 className="light-title">
-              <Link href="services">AI</Link>
-            </h2>
-            <Image src={Star} alt="Image" priority />
-            <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
-              </Link>
-            </h2>
-            <Image src={Star} alt="Image" priority />
-          </div>
-        </SwiperSlide>
-        <SwiperSlide>
-          <div className="text-slider__single">
-            <h2 className="light-title">
-              <Link href="services">AI</Link>
-            </h2>
-            <Image src={Star} alt="Image" priority />
-            <h2 className="light-title">
-              <Link href="services" className="text-stroke" data-text="Image">
-                Image
-              </Link>
-            </h2>
-            <Image src={Star} alt="Image" priority />
-          </div>
-        </SwiperSlide>
+        </SwiperSlide> */}
       </Swiper>
     </section>
   );
