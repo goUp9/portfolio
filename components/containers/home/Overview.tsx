@@ -66,7 +66,7 @@ const Overview = () => {
               <div className="overview__content">
                 <h4>DEX</h4>
                 <p className="tertiary-text">
-                  Developement of Decentralized Exchange Platform
+                  Developement of Decentralized Exchange Platform Using Web3
                 </p>
               </div>
             </div>
@@ -85,7 +85,7 @@ const Overview = () => {
               <div className="overview__content">
                 <h4>Continous learning</h4>
                 <p className="tertiary-text">
-Constant Learning Of Newly Arising Technology like Smart Exchange and API
+                  Constant Learning about Newly Arising Blockchain Technologies.
                 </p>
               </div>
             </div>
