@@ -29,18 +29,18 @@ const page = () => {
         {/* <TextSliderLarge /> */}
         <TextSlider />
         <Tools />
-        <Generation />
-        <Partner />
-        <ServiceSlider />
-        <UnlockSection />
+        {/* <Generation /> */}
+        {/* <Partner /> */}
+        {/* <ServiceSlider /> */}
+        {/* <UnlockSection /> */}
         <Overview />
-        <VideoSection />
-        <GenerationTwo />
-        <PricingPlan />
+        {/* <VideoSection /> */}
+        {/* <GenerationTwo /> */}
+        {/* <PricingPlan /> */}
         <BlogOne />
       </main>
-      <Footer />
-      <InitCustomCursor />
+      {/* <Footer /> */}
+      {/* <InitCustomCursor /> */}
       <ScrollProgressButton />
       <Animations />
     </div>

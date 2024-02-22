@@ -25,9 +25,9 @@ const Overview = () => {
                 <Image src={one} alt="Image" priority />
               </div>
               <div className="overview__content">
-                <h4>Smooth AI Tools</h4>
+                <h4>Smart Contract</h4>
                 <p className="tertiary-text">
-                  Deep Dream is a mesmerizing AI image generator that generates.
+                  Developement of Smart Contract using Solidity and Rust.
                 </p>
               </div>
             </div>
@@ -44,9 +44,10 @@ const Overview = () => {
                 <Image src={two} alt="Image" priority />
               </div>
               <div className="overview__content">
-                <h4>Image Generator</h4>
+                <h4>Dapp</h4>
                 <p className="tertiary-text">
-                  Deep Dream is a mesmerizing AI image generator that generates.
+                  Developement Of Decentralized Application using Third Party
+                  API.
                 </p>
               </div>
             </div>
@@ -63,9 +64,9 @@ const Overview = () => {
                 <Image src={three} alt="Image" priority />
               </div>
               <div className="overview__content">
-                <h4>Online Editing</h4>
+                <h4>DEX</h4>
                 <p className="tertiary-text">
-                  Deep Dream is a mesmerizing AI image generator that generates.
+                  Developement of Decentralized Exchange Platform
                 </p>
               </div>
             </div>
@@ -82,9 +83,9 @@ const Overview = () => {
                 <Image src={four} alt="Image" priority />
               </div>
               <div className="overview__content">
-                <h4>Use All Place</h4>
+                <h4>Continous learning</h4>
                 <p className="tertiary-text">
-                  Deep Dream is a mesmerizing AI image generator that generates.
+Constant Learning Of Newly Arising Technology like Smart Exchange and API
                 </p>
               </div>
             </div>

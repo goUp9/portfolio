@@ -19,7 +19,7 @@ const BlogOne = () => {
                 <div className="col-12 col-lg-8">
                   <div className="section__header mb-0 text-center text-lg-start">
                     <h2 className="title mt-12 title-animation">
-                      News & Articles
+                    Try it yourself
                     </h2>
                     <p> AI image generator tools have emerged as powerful</p>
                   </div>
