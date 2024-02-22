@@ -19,14 +19,14 @@ const BlogOne = () => {
                 <div className="col-12 col-lg-8">
                   <div className="section__header mb-0 text-center text-lg-start">
                     <h2 className="title mt-12 title-animation">
-                    Try it yourself
+                      Blockchain Project.
                     </h2>
-                    <p> AI image generator tools have emerged as powerful</p>
+                    <p> Some of my previous works</p>
                   </div>
                 </div>
                 <div className="col-12 col-lg-4">
                   <div className="text-center text-lg-end">
-                    <Link href="blog" className="btn btn--primary">
+                    <Link href="#" className="btn btn--primary">
                       View More
                     </Link>
                   </div>
@@ -45,21 +45,24 @@ const BlogOne = () => {
               onMouseEnter={() => setIsHover(0)}
             >
               <div className="blog__single-thumb">
-                <Link href="blog-single">
+                <Link href="#">
                   <Image src={one} alt="Image" priority />
                 </Link>
               </div>
               <div className="blog__single-content">
                 <div className="blog__single-meta">
-                  <span>April 18, 2023</span>
-                  <Link href="blog-single">0 Comments</Link>
+                  <span>April 18, 2018</span>
+                  <Link href="#">80 Comments</Link>
                 </div>
                 <h4>
-                  <Link href="blog-single">
-                    Unleashing the Creative Power of AI: Exploring Image
-                    Generation
-                  </Link>
+                  <Link href="#">Mentalmatics</Link>
                 </h4>
+                <span>
+                  Mentalmatics is site for Mentalmatics™ , a mental arithmetic
+                  school which provides specialised training on 2-hand 4-finger
+                  abacus and mental arithmetic. This school is trying to launch
+                  new ERC20 token called Mentalmatics - MMT.
+                </span>
               </div>
             </div>
           </div>
@@ -72,21 +75,25 @@ const BlogOne = () => {
               onMouseEnter={() => setIsHover(1)}
             >
               <div className="blog__single-thumb">
-                <Link href="blog-single">
+                <Link href="#">
                   <Image src={two} alt="Image" priority />
                 </Link>
               </div>
               <div className="blog__single-content">
                 <div className="blog__single-meta">
-                  <span>April 18, 2023</span>
-                  <Link href="blog-single">0 Comments</Link>
+                  <span>May 18, 2021</span>
+                  <Link href="#">2K Comments</Link>
                 </div>
                 <h4>
-                  <Link href="blog-single">
-                    Unleashing the Creative Power of AI: Exploring Image
-                    Generation
-                  </Link>
+                  <Link href="#">Paywong</Link>
                 </h4>
+                <span>
+                  Paywong is a Web3 startu`gp, with a mission to empower
+                  businesses and individuals by helping them unlock the power of
+                  the decentralised economy. The Paywong token is a utility
+                  token for the protocol. Participated in ICO, and unfortunately
+                  the project was cancelled
+                </span>
               </div>
             </div>
           </div>
@@ -99,17 +106,17 @@ const BlogOne = () => {
               onMouseEnter={() => setIsHover(2)}
             >
               <div className="blog__single-thumb">
-                <Link href="blog-single">
+                <Link href="#">
                   <Image src={three} alt="Image" priority />
                 </Link>
               </div>
               <div className="blog__single-content">
                 <div className="blog__single-meta">
                   <span>April 18, 2023</span>
-                  <Link href="blog-single">0 Comments</Link>
+                  <Link href="#">0 Comments</Link>
                 </div>
                 <h4>
-                  <Link href="blog-single">
+                  <Link href="#">
                     Unleashing the Creative Power of AI: Exploring Image
                     Generation
                   </Link>
